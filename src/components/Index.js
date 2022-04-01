@@ -87,7 +87,11 @@ const Index = () => {
       },
     ],
   };
+<<<<<<< Updated upstream
+  // const a123546789qwert;
+=======
   // const a;
+>>>>>>> Stashed changes
   return (
     <>
       <div className="top-container">
